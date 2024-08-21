@@ -25,7 +25,7 @@
 + Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections, [[arXiv]](https://arxiv.org/abs/2406.03052), [[Code]](https://github.com/LuoZhhh/NIFA)
 + Endowing Pre-trained Graph Models with Provable Fairness, [[WWW]](https://arxiv.org/abs/2402.12161), [[Code]](https://github.com/BUPT-GAMMA/GraphPAR)
 + One Fits All: Learning Fair Graph Neural Networks for Various Sensitive Attributes, [[KDD]](https://arxiv.org/abs/2406.13544), [[Code]](https://github.com/ZzoomD/FairINV/)
-+ Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach, [[arXiv]](https://arxiv.org/abs/2406.13201)
++ Toward Structure Fairness in Dynamic Graph Embedding: A Trend-aware Dual Debiasing Approach, [[arXiv]](https://arxiv.org/abs/2406.13201), [[Code]](https://github.com/Abigale001/FairDGE)
 + Mind the Graph When Balancing Data for Fairness or Robustness, [[arXiv]](https://arxiv.org/abs/2406.17433)
 + Rethinking Fair Graph Neural Networks from Re-balancing, [[KDD]](https://arxiv.org/abs/2407.11624), [[Code]](https://github.com/zhixunlee/fairgb)
 
